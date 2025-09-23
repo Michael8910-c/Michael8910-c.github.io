@@ -44,9 +44,9 @@ createPlatform(500, 300, 100, 5, "green")
     
     // TODO 4 - Create Cannons
 //createCannon("wall", pos, secondsX1000, width, height)
-createCannon("right", 500, 2000)
-createCannon("top", 500, 3000)
-createCannon("left", 300, 6000)
+createCannon("right", 500, 3000, 50, 50)
+createCannon("top", 500, 3000, 50, 50)
+createCannon("left", 300, 6000, 50, 50)
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
