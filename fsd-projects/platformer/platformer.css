@@ -3,7 +3,10 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-image: url("https://images.squarespace-cdn.com/content/v1/58bd7b6c2e69cfbfda74cfdd/1715010500056-O6NZPR6DAR0SUWDPHKUC/Fancy+delancey+kitchen+island.jpg?format=1000w");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
   margin: 20px;
 }
 
